@@ -27,7 +27,7 @@ zynq作为ARM和FPGA有机融合的架构，在数据采集领域应用颇多，
 
 Linux将所有中断都通过irq number来索引的，而irq number并不是GIC中断控制器里的中断编号，而是一个纯软件的索引，因此驱动无法通过指定硬件中断号来申请中断，只能通过设备树相关接口来申请
 
-具体见[我的前一篇文章](https://happen23.github.io/%E4%B8%BAzynq%E7%9A%84PL%E5%90%AF%E7%94%A8linux%E4%B8%AD%E6%96%AD%EF%BC%88%E4%B8%8D%E4%BE%9D%E8%B5%96vivado%E6%88%96vitis%EF%BC%89.html)
+具体见[我的前一篇文章]( 为zynq的PL启用linux中断（不依赖vivado或vitis）.md)
 
 ## 申请8MB的连续DDR空间
 
