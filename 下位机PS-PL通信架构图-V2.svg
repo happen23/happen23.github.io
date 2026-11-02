@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="47cm" height="25cm" viewBox="616 336 937 496" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="723.149" y="365.658" width="259.556" height="465.276"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="723.149" y="365.658" width="259.556" height="465.276"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="786.072" y="348.758">
+    <tspan x="786.072" y="348.758">PS</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="1056.7" y="375" width="371.296" height="453"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1056.7" y="375" width="371.296" height="453"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1249" y="352">
+    <tspan x="1249" y="352">PL</tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="968.89,523.156 1093.7,523.156 1093.7,522.386 1090.94,522.386 "/>
+    <polygon style="fill: #000000" points="961.39,523.156 971.39,518.156 968.89,523.156 971.39,528.156 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="961.39,523.156 971.39,518.156 968.89,523.156 971.39,528.156 "/>
+    <polygon style="fill: #000000" points="1098.44,522.386 1088.44,527.386 1090.94,522.386 1088.44,517.386 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1098.44,522.386 1088.44,527.386 1090.94,522.386 1088.44,517.386 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1233.04" y="395.419" width="138" height="45"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1233.04" y="395.419" width="138" height="45"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1233.04" y="441.14" width="138" height="45"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1233.04" y="441.14" width="138" height="45"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1142.37" y="406.854">
+    <tspan x="1142.37" y="406.854">0x40000000</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1144.91" y="452.304">
+    <tspan x="1144.91" y="452.304">0x40002000</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1275.81" y="422.205">
+    <tspan x="1275.81" y="422.205">配置寄存器</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1275.04" y="469.941">
+    <tspan x="1275.04" y="469.941">状态寄存器</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="1100.68" y="499.051" width="41.7193" height="46.669"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1100.68" y="499.051" width="41.7193" height="46.669"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1096.75" y="481.959">
+    <tspan x="1096.75" y="481.959">AXI_GP</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="917.435" y="499.822" width="41.7193" height="46.669"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="917.435" y="499.822" width="41.7193" height="46.669"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1357.86" y="669.36" width="41.7193" height="46.669"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1357.86" y="669.36" width="41.7193" height="46.669"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1311.52" y="701.04">
+    <tspan x="1311.52" y="701.04">FIFO</tspan>
+  </text>
+  <g>
+    <polygon style="fill: #ffffff" points="1550.4,585.922 1521.41,585.922 1521.41,571.426 1492.42,600.417 1521.41,629.409 1521.41,614.913 1550.4,614.913 1535.9,600.417 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1550.4,585.922 1521.41,585.922 1521.41,571.426 1492.42,600.417 1521.41,629.409 1521.41,614.913 1550.4,614.913 1535.9,600.417 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1550.4,585.922 1521.41,585.922 1521.41,571.426 1492.42,600.417 1521.41,629.409 1521.41,614.913 1550.4,614.913 1535.9,600.417 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1503.02" y="538.9">
+    <tspan x="1503.02" y="538.9">ADC</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="1312.1" y="532.536" width="62.2253" height="65.7609"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1312.1" y="532.536" width="62.2253" height="65.7609"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1327.36" y="523.718">
+    <tspan x="1327.36" y="523.718">logic</tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1384.07,565.416 1433.37,565.416 1433.37,600.417 1482.68,600.417 "/>
+    <polygon style="fill: #000000" points="1376.57,565.416 1386.57,560.416 1384.07,565.416 1386.57,570.416 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1376.57,565.416 1386.57,560.416 1384.07,565.416 1386.57,570.416 "/>
+    <polygon style="fill: #000000" points="1490.18,600.417 1480.18,605.417 1482.68,600.417 1480.18,595.417 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1490.18,600.417 1480.18,605.417 1482.68,600.417 1480.18,595.417 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1002.69" y="510.29">
+    <tspan x="1002.69" y="510.29">AXI_lite</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1438.68" y="578.498">
+    <tspan x="1438.68" y="578.498">SPI总线</tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1223.31,417.919 1194.61,417.919 1194.61,522.386 1152.13,522.386 "/>
+    <polygon style="fill: #000000" points="1230.81,417.919 1220.81,422.919 1223.31,417.919 1220.81,412.919 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1230.81,417.919 1220.81,422.919 1223.31,417.919 1220.81,412.919 "/>
+    <polygon style="fill: #000000" points="1144.63,522.386 1154.63,517.386 1152.13,522.386 1154.63,527.386 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1144.63,522.386 1154.63,517.386 1152.13,522.386 1154.63,527.386 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1343.22,609.041 1343.22,633.83 1378.71,633.83 1378.71,658.618 "/>
+    <polygon style="fill: #000000" points="1343.22,601.541 1348.22,611.541 1343.22,609.041 1338.22,611.541 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1343.22,601.541 1348.22,611.541 1343.22,609.041 1338.22,611.541 "/>
+    <polygon style="fill: #000000" points="1378.71,666.118 1373.71,656.118 1378.71,658.618 1383.71,656.118 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1378.71,666.118 1373.71,656.118 1378.71,658.618 1383.71,656.118 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="617.673" y="557.284" width="74.9532" height="85.5598"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="617.673" y="557.284" width="74.9532" height="85.5598"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="623.217" y="541.02">
+    <tspan x="623.217" y="541.02">DDR</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="617.673" y="642.854" width="74.9532" height="85.5598"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="617.673" y="642.854" width="74.9532" height="85.5598"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="777.8" y="654.873" width="27.5055" height="28.4223"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="777.8" y="654.873" width="27.5055" height="28.4223"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="777.8" y="654.873" width="27.5055" height="28.4223"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="852.927" y="598.296">
+    <tspan x="852.927" y="598.296"></tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="787.705" y="643.319">
+    <tspan x="787.705" y="643.319">DDR 控制器</tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="768.064,669.084 735.213,669.084 735.213,600.064 702.363,600.064 "/>
+    <polygon style="fill: #000000" points="775.564,669.084 765.564,674.084 768.064,669.084 765.564,664.084 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="775.564,669.084 765.564,674.084 768.064,669.084 765.564,664.084 "/>
+    <polygon style="fill: #000000" points="694.863,600.064 704.863,595.064 702.363,600.064 704.863,605.064 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="694.863,600.064 704.863,595.064 702.363,600.064 704.863,605.064 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="703.372,685.634 735.718,685.634 735.718,669.084 768.064,669.084 "/>
+    <polygon style="fill: #000000" points="695.872,685.634 705.872,680.634 703.372,685.634 705.872,690.634 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="695.872,685.634 705.872,680.634 703.372,685.634 705.872,690.634 "/>
+    <polygon style="fill: #000000" points="775.564,669.084 765.564,674.084 768.064,669.084 765.564,664.084 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="775.564,669.084 765.564,674.084 768.064,669.084 765.564,664.084 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="628.805" y="606.186">
+    <tspan x="628.805" y="606.186">信号幅值</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="631.633" y="691.744">
+    <tspan x="631.633" y="691.744">信号频率</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="1108.07" y="645.749" width="41.7193" height="46.669"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1108.07" y="645.749" width="41.7193" height="46.669"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1110.03" y="628.269">
+    <tspan x="1110.03" y="628.269">AXI_HP</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="890.964" y="473.544">
+    <tspan x="890.964" y="473.544">AXI_lite</tspan>
+    <tspan x="890.964" y="489.544">interconnect</tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1302.37,565.416 1230.95,565.416 1230.95,669.084 1159.53,669.084 "/>
+    <polygon style="fill: #000000" points="1309.87,565.416 1299.87,570.416 1302.37,565.416 1299.87,560.416 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1309.87,565.416 1299.87,570.416 1302.37,565.416 1299.87,560.416 "/>
+    <polygon style="fill: #000000" points="1152.03,669.084 1162.03,664.084 1159.53,669.084 1162.03,674.084 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1152.03,669.084 1162.03,664.084 1159.53,669.084 1162.03,674.084 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="917.082" y="645.749" width="41.7193" height="46.669"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="917.082" y="645.749" width="41.7193" height="46.669"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="890.964" y="621.542">
+    <tspan x="890.964" y="621.542">AXI</tspan>
+    <tspan x="890.964" y="637.542">interconnect</tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="968.537,669.084 959.801,669.084 1106.07,669.084 1097.33,669.084 "/>
+    <polygon style="fill: #000000" points="961.037,669.084 951.037,674.084 953.537,669.084 951.037,664.084 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="961.037,669.084 951.037,674.084 953.537,669.084 951.037,664.084 "/>
+    <polygon style="fill: #000000" points="1104.83,669.084 1114.83,664.084 1112.33,669.084 1114.83,674.084 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1104.83,669.084 1114.83,664.084 1112.33,669.084 1114.83,674.084 "/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1001.21" y="649.5">
+    <tspan x="1001.21" y="649.5">AXI</tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="907.345,669.084 916.082,669.084 806.305,669.084 815.041,669.084 "/>
+    <polygon style="fill: #000000" points="914.845,669.084 924.845,664.084 922.345,669.084 924.845,674.084 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="914.845,669.084 924.845,664.084 922.345,669.084 924.845,674.084 "/>
+    <polygon style="fill: #000000" points="807.541,669.084 797.541,674.084 800.041,669.084 797.541,664.084 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="807.541,669.084 797.541,674.084 800.041,669.084 797.541,664.084 "/>
+  </g>
+</svg>
