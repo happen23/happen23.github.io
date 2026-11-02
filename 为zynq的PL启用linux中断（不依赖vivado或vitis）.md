@@ -28,9 +28,9 @@ petalinux自带的zynq-7000.dtsi里只有PS端的设备树节点，没有PL的
 一些说明：
 1. `pl@ffff0000`表明pl的配置寄存器地址位于0xffff0000，这实际上是OCM的地址，因为之前PS是通过mmap到OCM的方式与PL通信的。
 2. `interrupts = <0 29 1>;`三元组中的
-3. 0表示SPI外设（相对global timer、scu timer等PPI外设）
-4. 29表示在SPI外设中断编号（全局中断编号-32）
-5. 1表示上升沿触发（参考dt-binding头文件）
+    * 0表示SPI外设（相对global timer、scu timer等PPI外设）
+    * 29表示在SPI外设中断编号（全局中断编号-32）
+    * 1表示上升沿触发（参考dt-binding头文件）
 
 # 为PL创建platform驱动
 
